@@ -22,7 +22,7 @@
 
 Check the [Contributing guidelines](https://github.com/AlAskalany/todoly-android-kotlin/blob/master/.github/CONTRIBUTING.md).
 
-# Useful Resources
+## Useful Resources
 
 - [Unified Code Coverage for Android: Revisited](https://proandroiddev.com/unified-code-coverage-for-android-revisited-44789c9b722f)
 - [The JaCoCo Plugin](https://docs.gradle.org/current/userguide/jacoco_plugin.html#sec:configuring_the_jacoco_plugin)
