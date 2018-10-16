@@ -2,7 +2,8 @@
 
 > ToDoly Android App in Kotlin.
 
-![Travis CI build](https://travis-ci.com/AlAskalany/todoly-android-kotlin.svg?branch=master)
+[![Travis CI build](https://travis-ci.com/AlAskalany/todoly-android-kotlin.svg?branch=master)](https://travis-ci.com/AlAskalany/todoly-android-kotlin)
+[![Maintainability](https://api.codeclimate.com/v1/badges/29d753fa54a9f65b2743/maintainability)](https://codeclimate.com/github/AlAskalany/todoly-android-kotlin/maintainability)
 
 ## Installing ToDoly
 
