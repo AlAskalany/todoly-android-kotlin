@@ -9,6 +9,10 @@
 
 ## Features
 
+<div>
+  <img align="center" src="/misc/ToDoly_screenshot.png" alt="ToDoly App Screenshot" height="640" width="360">
+</div>
+
 ## Development Environment
 
 ## Architecture
