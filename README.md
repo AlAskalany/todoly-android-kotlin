@@ -2,6 +2,14 @@
 
 ToDoly Android App in Kotlin
 
+## Installing ToDoly
+
+## Features
+
+## Development Environment
+
+## Architecture
+
 ## Report an Issue
 
 - Report a [bug](https://github.com/AlAskalany/todoly-android-kotlin/issues/new?template=bug_report.md)
