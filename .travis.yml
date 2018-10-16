@@ -48,7 +48,6 @@ script:
   - ./gradlew check
   - ./gradlew testDebugUnitTest
   - ./gradlew connectedDebugAndroidTest
-  - ./gradlew build jacocoTestReport assembleAndroidTest
 
 after_script:
   - ./cc-test-reporter after-build --exit-code $TRAVIS_TEST_RESULT
